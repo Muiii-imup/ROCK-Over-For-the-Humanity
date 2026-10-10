@@ -1,0 +1,6 @@
+{
+  "name": "ROCK: Over For the World",
+  "description": "An absurd 8-bit open-world adventure where a profoundly depressed rock destroys reality, Oxygen quits his job, Elon Musk helicopter-spins into the sky, the sun unexplodes, and the President is a utility bill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
